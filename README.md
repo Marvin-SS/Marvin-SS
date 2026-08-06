@@ -1,4 +1,14 @@
 <h1 data-importer="text" align="center">Hey 👋What's Up?</h1>
+
+My name is Marvin and I'm a 3rd year Computing Science student (AI specialization, Math minor) at the University of Alberta, from Edmonton. I'm focused on creating practical, user-centered software that solves real problems.
+
+## About me
+
+- ✨ Creating bugs since 2019
+- 📗 I'm currently learning ...
+- 🚀 Goals: ...
+- 🎲 Fun fact: ...
+
 ###
 <div data-importer="techs" align="center">
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
