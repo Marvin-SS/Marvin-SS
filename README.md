@@ -5,9 +5,9 @@ My name is Marvin and I'm a 3rd year Computing Science student (AI specializatio
 ## About me
 
 - ✨ Creating bugs since 2019
-- 📗 I'm currently learning ...
-- 🚀 Goals: ...
-- 🎲 Fun fact: ...
+- 📗 I'm currently learning shhh (its a secret)
+- 🚀 Goals: to build software that makes a real, lasting difference in people's lives
+- 🏎️ Fun fact: I love Formula 1
 
 ###
 <div data-importer="techs" align="center">
